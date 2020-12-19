@@ -1,0 +1,10 @@
+// Параметры компилятора tsc
+
+{
+ "compilerOptions": {
+ "target": "ES5",
+ "module": "commonjs",
+ "experimentalDecorators": true,
+ "noImplicitAny": true
+ }
+}
